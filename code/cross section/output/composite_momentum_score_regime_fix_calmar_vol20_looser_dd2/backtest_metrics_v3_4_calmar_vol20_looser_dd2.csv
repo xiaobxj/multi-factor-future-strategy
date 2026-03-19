@@ -1,0 +1,11 @@
+﻿metric,value
+annualized_return,0.1135045347209871
+annualized_volatility,0.1344133753476013
+maximum_drawdown,0.10311995197820267
+sharpe_ratio,0.8670332750126583
+calmar_ratio,1.1007039136808316
+average_signal_gross_budget,0.40396364700581056
+average_gross_exposure,0.47605340830265924
+average_vol_scale,1.515483174828722
+average_drawdown_scale,0.9900469897158826
+average_active_signal_count,0.6766809728183119
