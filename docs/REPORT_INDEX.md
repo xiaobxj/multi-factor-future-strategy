@@ -1,0 +1,36 @@
+# Report Index
+
+## Composite momentum diagnostics
+
+- `code/cross section/output/composite_momentum_score_regime_fix/composite_momentum_panel.csv`
+- `code/cross section/output/composite_momentum_score_regime_fix/dimension_feature_weights.csv`
+- `code/cross section/output/composite_momentum_score_regime_fix/score_evaluation.csv`
+- `code/cross section/output/composite_momentum_score_regime_fix/latest_snapshot.csv`
+
+## vol20_looser_dd2 package
+
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_looser_dd2/backtest_metrics_v3_4_calmar_vol20_looser_dd2.csv`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_looser_dd2/backtest_daily_returns_v3_4_calmar_vol20_looser_dd2.csv`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_looser_dd2/backtest_tearsheet_v3_4_calmar_vol20_looser_dd2.png`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_looser_dd2/composite_momentum_report_v3_4_calmar_vol20_looser_dd2.png`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_looser_dd2/daily_positions_heatmap_v3_4_calmar_vol20_looser_dd2.png`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_looser_dd2/daily_positions_area_v3_4_calmar_vol20_looser_dd2.png`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_looser_dd2/trading_behavior_all_assets_v3_4_calmar_vol20_looser_dd2.png`
+
+## vol20_cap60_looser_dd2 package
+
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_cap60_looser_dd2/backtest_metrics_v3_4_calmar_vol20_cap60_looser_dd2.csv`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_cap60_looser_dd2/backtest_daily_returns_v3_4_calmar_vol20_cap60_looser_dd2.csv`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_cap60_looser_dd2/backtest_tearsheet_v3_4_calmar_vol20_cap60_looser_dd2.png`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_cap60_looser_dd2/tearsheet_analysis_vol20_cap60_looser_dd2.png`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_cap60_looser_dd2/equity_curve_vol20_cap60_looser_dd2.png`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_cap60_looser_dd2/drawdown_curve_vol20_cap60_looser_dd2.png`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_cap60_looser_dd2/annual_returns_vol20_cap60_looser_dd2.png`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_cap60_looser_dd2/asset_attribution_vol20_cap60_looser_dd2.png`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_cap60_looser_dd2/sector_attribution_vol20_cap60_looser_dd2.png`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar_vol20_cap60_looser_dd2/overlay_diagnostics_vol20_cap60_looser_dd2.png`
+
+## Parameter scans
+
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar/parameter_scan_v3_4_calmar.csv`
+- `code/cross section/output/composite_momentum_score_regime_fix_calmar/parameter_scan_v3_4_calmar_round2.csv`

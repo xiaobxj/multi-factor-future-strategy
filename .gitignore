@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+code/__pycache__/
+code/cross section/__pycache__/
+
+code/TSM/
+results/
+
+code/cross section/output/composite_momentum_score/
+code/cross section/output/composite_momentum_score_regime_fix_controlled/
+code/cross section/output/composite_momentum_score_regime_fix_calmar/
+
+*.tmp
+*.log
